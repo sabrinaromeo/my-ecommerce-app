@@ -1,2 +1,2 @@
 # my-ecommerce-app
-ecommerce app for mobile in kotlin
+ecommerce app mobile in kotlin
